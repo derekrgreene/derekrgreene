@@ -1,16 +1,23 @@
 ![Header](./github-header-image.png)
 
-<!--
-**derekgreene11/derekgreene11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Computer Science Student** at **Oregon State University**  
+🔒 Passionate about **Network Security & Software Development**  
+🐍 Linux & Python Enthusiast | C/C++ Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do  
+- 💻 **Software Development** | Security & System Programming  
+- 🌐 **Web Development & Administration**  
+  - Developer & Admin for [CentralPointStake.org](https://centralpointstake.org)  
+- 🔍 **Research Fellow** | Studying under [Dr. Zane Ma](https://zanema.com/)
+
+## 📚 Publications
+- [Mapping the Attack Surface of Domain Control Validation in TLS Server Certificate
+Issuance](https://derekrgreene.com/static/sources/research/MappingtheAttackSurfaceofDomainControlValidationinTLSServerCertificateIssuance.pdf)
+
+## 🔗 Find Me Online  
+🌍 **Website**: [derekrgreene.com](https://derekrgreene(.com)  
+💼 **LinkedIn**: [linkedin.com/in/derekgreene11](https://www.linkedin.com/in/derekgreene11/)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekgreene11&show_icons=true&theme=dark)  
+
