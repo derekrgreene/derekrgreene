@@ -13,10 +13,10 @@
 
 ## 📚 Publications
 - [Mapping the Attack Surface of Domain Control Validation in TLS Server Certificate
-Issuance](https://derekrgreene.com/static/sources/research/MappingtheAttackSurfaceofDomainControlValidationinTLSServerCertificateIssuance.pdf)
+Issuance](https://derekrgreene.com/static/sources/research/MappingtheAttackSurfaceofDomainControlValidationinTLSServerCertificateIssuance.pdf) - March, 2025
 
 ## 🔗 Find Me Online  
-🌍 **Website**: [derekrgreene.com](https://derekrgreene(.com)  
+🌍 **Website**: [derekrgreene.com](https://derekrgreene.com)  
 💼 **LinkedIn**: [linkedin.com/in/derekgreene11](https://www.linkedin.com/in/derekgreene11/)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekgreene11&show_icons=true&theme=dark)  
