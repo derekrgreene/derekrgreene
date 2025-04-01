@@ -19,8 +19,4 @@ Issuance](https://derekrgreene.com/static/sources/research/MappingtheAttackSurfa
 🌍 **Website**: [derekrgreene.com](https://derekrgreene.com)  
 💼 **LinkedIn**: [linkedin.com/in/derekgreene11](https://www.linkedin.com/in/derekgreene11/)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derekgreene11&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derekgreene11&theme=solarized-dark&hide_border=true" />
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekgreene11&show_icons=true&theme=dark)  
