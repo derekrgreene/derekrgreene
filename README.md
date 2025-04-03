@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-
+![Static Badge](https://img.shields.io/badge/Project_Jupyter-Contributor-grey?style=flat-square&logoColor=%23222832&logoSize=auto&labelColor=orange)
 
 🎓 **Computer Science Student** at **Oregon State University**  
 🔒 Passionate about **Network Security & Software Development**  
