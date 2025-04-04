@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
-![Static Badge](https://img.shields.io/badge/Project_Jupyter-Contributor-default?style=flat-square&logo=jupyter&labelColor=grey&color=%23F37626&link=https%3A%2F%2Fgithub.com%2Fjupyter)
+<object>
+<img alt="Static Badge" src="https://img.shields.io/badge/Project_Jupyter-Contributor-default?style=flat-square&logo=jupyter&labelColor=grey&color=%23F37626&link=https%3A%2F%2Fgithub.com%2Fjupyter">
+</object>
 
 🎓 **Computer Science Student** at **Oregon State University**  
 🔒 Passionate about **Network Security & Software Development**  
