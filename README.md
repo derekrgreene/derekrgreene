@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ![Static Badge](https://img.shields.io/badge/Project_Jupyter-Contributor-default?style=flat-square&logo=jupyter&labelColor=grey&color=%23F37626)
 
-🎓 **Computer Science Student** at **Oregon State University**
+🎓 **Computer Science Student** at **Oregon State University** Go Beavers!  
 🔒 Passionate about **Network Security & Software Development**  
 🐍 Linux & Python Enthusiast | C/C++ Developer  
 
