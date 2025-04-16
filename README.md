@@ -1,4 +1,4 @@
-![Header](./github-headerImage.png)
+![Header](./github-header-Image.png)
 ![Static Badge](https://img.shields.io/badge/Project_Jupyter-Contributor-default?style=flat-square&logo=jupyter&labelColor=grey&color=%23F37626)
 
 🎓 **Computer Science Student** at **Oregon State University** (Go Beavers!)  
