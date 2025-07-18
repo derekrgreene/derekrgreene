@@ -20,3 +20,9 @@ Issuance](https://derekrgreene.com/static/sources/research/MappingtheAttackSurfa
 💼 **LinkedIn**: [linkedin.com/in/derekgreene11](https://www.linkedin.com/in/derekgreene11/)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derekrgreene&show_icons=true&theme=dark&hide=prs,issues,contribs&hide_rank=true) 
+
+### 🧰 Tools I Love
+- 🐚 Zsh > Bash, obviously
+- 📝 Living in [Neovim](https://neovim.io/)
+- 🖥️ Tiling everything with [Hyprland](https://github.com/hyprwm/Hyprland) 
+- 🐧 Arch, btw — because I like to suffer (productively)
