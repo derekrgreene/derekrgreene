@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ![Static Badge](https://img.shields.io/badge/Project_Jupyter-Contributor-default?style=flat-square&logo=jupyter&labelColor=grey&color=%23F37626)
 
-💻 **Software Developer** at **Rentec Direct**
+💻 **Software Developer** at **Rentec Direct**  
 🎓 **Computer Science Student** at **Oregon State University** (Go Beavers!)  
 🔒 Passionate about **Network Security & Software Development**  
 ⚗️ Elixir & Linux Enthusiast 
