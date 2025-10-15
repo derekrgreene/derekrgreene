@@ -3,7 +3,7 @@
 
 💻 **Software Developer** at **Rentec Direct**  
 🎓 **Computer Science Student** at **Oregon State University** (Go Beavers!)  
-🔒 Passionate about **Network Security & Software Development**  
+🔒 Passionate about **Network Security**  
 ⚗️ Elixir & Linux Enthusiast 
 ## 🛠️ What I Do  
 - 💻 **Software Development**
